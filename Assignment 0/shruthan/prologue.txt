@@ -1,0 +1,4 @@
+Name: Shruthan R
+Reg No: 181CO250
+
+I have done an "Introduction to Data Science" course and am in week 6 of Andrew Ng's course.
